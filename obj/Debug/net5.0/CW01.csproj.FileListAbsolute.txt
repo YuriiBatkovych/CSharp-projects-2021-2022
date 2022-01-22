@@ -1,0 +1,16 @@
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.exe
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.deps.json
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.runtimeconfig.json
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.runtimeconfig.dev.json
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.dll
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\ref\CW01.dll
+D:\5semestr_projects\C#_.Net_projects\CW01\bin\Debug\net5.0\CW01.pdb
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.csproj.AssemblyReference.cache
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.GeneratedMSBuildEditorConfig.editorconfig
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.AssemblyInfoInputs.cache
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.AssemblyInfo.cs
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.csproj.CoreCompileInputs.cache
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.dll
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\ref\CW01.dll
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.pdb
+D:\5semestr_projects\C#_.Net_projects\CW01\obj\Debug\net5.0\CW01.genruntimeconfig.cache
