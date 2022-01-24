@@ -1,0 +1,7 @@
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\bin\Debug\CW02.exe.config
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\bin\Debug\CW02.exe
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\bin\Debug\CW02.pdb
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\obj\Debug\CW02.csproj.AssemblyReference.cache
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\obj\Debug\CW02.csproj.CoreCompileInputs.cache
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\obj\Debug\CW02.exe
+D:\5semestr_projects\C#_.Net_projects\CW02\CW02\obj\Debug\CW02.pdb
