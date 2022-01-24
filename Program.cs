@@ -87,7 +87,7 @@ namespace CW02
         {
             Console.WriteLine("\nŻeby rozpocząć głosowanie, należy wpisać : POCZATEK [tytuł głosowania]");
             Console.WriteLine("Żeby zagłosować, należy wpisać : GLOS [nr Parlamentarzysty]");
-            Console.WriteLine("Żeby zakończyć głosowanie, należy wpisać : KONIEC");
+            Console.WriteLine("Żeby zakończyć głosowanie, należy wpisać : KONIEC ");
             Console.WriteLine("Żeby zakończyć symulację, należy wpisać STOP\n");
         }
     }
